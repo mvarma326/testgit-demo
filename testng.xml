@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Testgit">
+    <classes>
+      <class name="githubtest.TestGrouping1"/>
+      <class name="githubtest.TestGrouping2"/>
+    </classes>
+  </test> <!-- Testgit -->
+</suite> <!-- Suite -->

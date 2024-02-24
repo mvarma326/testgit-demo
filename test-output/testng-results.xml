@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-24T20:53:06 IST" name="Suite" finished-at="2024-02-24T20:53:06 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T20:53:06 IST" name="Testgit" finished-at="2024-02-24T20:53:06 IST" duration-ms="76">
+      <class name="githubtest.TestGrouping1">
+        <test-method signature="test_case001()[pri:0, instance:githubtest.TestGrouping1@5d0bf09b]" started-at="2024-02-24T20:53:06 IST" name="test_case001" finished-at="2024-02-24T20:53:06 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case001 -->
+        <test-method signature="test_case002()[pri:0, instance:githubtest.TestGrouping1@5d0bf09b]" started-at="2024-02-24T20:53:06 IST" name="test_case002" finished-at="2024-02-24T20:53:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case002 -->
+        <test-method signature="test_case003()[pri:0, instance:githubtest.TestGrouping1@5d0bf09b]" started-at="2024-02-24T20:53:06 IST" name="test_case003" finished-at="2024-02-24T20:53:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case003 -->
+      </class> <!-- githubtest.TestGrouping1 -->
+      <class name="githubtest.TestGrouping2">
+        <test-method signature="test_case004()[pri:0, instance:githubtest.TestGrouping2@5149d738]" started-at="2024-02-24T20:53:06 IST" name="test_case004" finished-at="2024-02-24T20:53:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case004 -->
+        <test-method signature="test_case005()[pri:0, instance:githubtest.TestGrouping2@5149d738]" started-at="2024-02-24T20:53:06 IST" name="test_case005" finished-at="2024-02-24T20:53:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case005 -->
+        <test-method signature="test_case006()[pri:0, instance:githubtest.TestGrouping2@5149d738]" started-at="2024-02-24T20:53:06 IST" name="test_case006" finished-at="2024-02-24T20:53:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case006 -->
+      </class> <!-- githubtest.TestGrouping2 -->
+    </test> <!-- Testgit -->
+  </suite> <!-- Suite -->
+</testng-results>
